@@ -18,14 +18,14 @@ element :btn_criar, 'input[value="Criar"]'
 
 def preencher # jogando as informaçoes dentro do metodo
 
-    nome.set 'Mauricio'
-    last_name.set 'cavalcanti junior'
-    email.set 'juniorcavalcanti@live.com'
-    endereco.set 'cotia'
-    universit.set 'unip'
-    profissao.set 'ti'
-    genero.set 'homen'
-    idade.set 26
+    nome.set 'Moises'
+    last_name.set 'Dos santos'
+    email.set 'moisesdossantos@live.com'
+    endereco.set 'campo grande'
+    universit.set 'Unip'
+    profissao.set 'TI'
+    genero.set 'Masculino'
+    idade.set 22
 end
 
 def click
